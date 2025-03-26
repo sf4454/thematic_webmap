@@ -1,2 +1,1 @@
-# thematic_webmap
-Lab 4, Thematic Webmap
+This map shows the number of large, accredited higher learning institutions by state in the form of graduated circles. The map gives the user a snapshot at the demand for higher learning around the country as well as the state of college education in general. The data was sourced from [this website](https://university.graduateshotline.com/ubystate.html#google_vignette), which outlines the each state's institutions. 
